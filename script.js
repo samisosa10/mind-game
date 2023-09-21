@@ -110,7 +110,10 @@ const cronomentro = () => {
         }
       });
     } else if (contadorAciertos == 8) {
-      window.open("https://samisosa10.github.io/mi-portafolio/");
+      window.open(
+        "https://es.pornhub.com/view_video.php?viewkey=ph5c01a296a74a6"
+      );
+      // window.open("https://samisosa10.github.io/mi-portafolio/");
       time.innerHTML = "";
       tiempo = 0;
     }
